@@ -94,7 +94,7 @@ Auf dem Sprungbrett ist auf ein roter Punkt zu sehen. Mit diem rufen Sie Kurzbef
 Die Beta-Version unterstützt festgelegte Funktionen:
 
 - Aufruf von wichtigen Kontakten
-- Aufruf von jüngsten Konverstationen
+- Aufruf von jüngsten Konversationen
 - Aufruf von jüngsten Nachrichten
 - Aufruf der Kalender App
 - Aufruf der Telefon App
