@@ -28,6 +28,8 @@ Die Volla Benutzeroberfläche umfasst zwei Grundkonzepte:
 
 Immer wenn Sie den Volla Launcher aufrufen, zeigt dieser das Sprungbrett. Die Idee ist, dass Sie etwas schreiben und das System erkennt, was Sie zum wollen. Dafür liefert es Vorschläge zur Vervollständigung Ihrer Eingabe oder passende Funktionen für Ihre Eingabe.
 
+![Springboard](screenshot-springboard.jpeg)
+
 Das Sprungbrett unterstützt folgende Anwendungsfälle:
 
 ### Kontaktauswahl
@@ -86,6 +88,8 @@ Auf dem Sprungbrett ist auf ein roter Punkt zu sehen. Mit diem rufen Sie Kurzbef
 1. Berühren
 2. Schieben
 3. Loslassen
+
+![Shortcuts](sceenshot-shortcuts.jpeg)
 
 Die Beta-Version unterstützt festgelegte Funktionen:
 

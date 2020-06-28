@@ -89,6 +89,8 @@ On the springboard you can see a red dot. With diem you call up shortcuts with j
 2. Drag
 3. Release
 
+![Shortcuts](sceenshot-shortcuts.jpeg)
+
 The beta version supports fixed functions:
 
 - Calling of important contacts
