@@ -1,6 +1,6 @@
 # Volla OS Beta Guide
 
-The beta version of the Full OS is still incomplete and contains bugs. An overview of the development status can be found on the platform Github, where we publish the source code of the operating system. 
+The beta version of the Volla OS is still incomplete and contains bugs. An overview of the development status can be found on the platform Github, where we publish the source code of the operating system. 
 
 https://github.com/HelloVolla/
 
