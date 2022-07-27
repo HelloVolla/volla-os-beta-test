@@ -72,7 +72,7 @@ Sie können auch Zeilenumbrüche verwenden.
 
 	Volla Phone
 	Neue Funktionen:
-	1. Sichrheitsmodus
+	1. Sicherheitsmodus
 	2. Mult Boot
 	
 ### Web-Adresse
@@ -107,7 +107,7 @@ Der Volla Launcher erkennt verschiedene Formen der Beschreibung eines Kalenderer
 
 	12.08.2022 12 Uhr Mittagessen mit Peter
 	12.08. 16:30 - 17:30 Training im Sportverein
-	6 - 8 pm Abendessen mit Paula in Joe's Pizzaria  
+	6 - 8 pm Abendessen mit Paula in Joe's Pizzeria  
 
 Fehlt die Uhrzeit plant der Volla Launcher ein Tagesereignis. Fehler nur die zweite Uhrzeit für das Ereignis ein. Fehlt das Datum gilt der gleiche Tag. 
 
@@ -118,7 +118,7 @@ An Stelle eines Datums können Sie auch Wochentage oder eine Kurzform wählen:
 
 Bei einem Zeilenumbruch verwendet der Volla Launcher den Text nach dem ersten Zeilenumbruch als Beschreibung des Kalenderereignisses. 
 
-Wenn Sie auf den Vorschlag tippen, den Termin in den Kalender einzutragen, öffnet das System die Kalender App, in der Sie das Ereignis bestätigen, um es abzuspeicerh.
+Wenn Sie auf den Vorschlag tippen, den Termin in den Kalender einzutragen, öffnet das System die Kalender App, in der Sie das Ereignis bestätigen, um es abzuspeichern.
 	
 Weitere Anwendungsfälle sind geplant.
 
@@ -148,7 +148,7 @@ Die Kurzbefehle können Sie in den Einstellungen unter der entsprechenden Gruppe
 Sie können auf zwei Wegen neue Kurzbefehle hinzufügen:
 
 1. Tippen Sie auf eine App in der Übersicht und halten Sie die Berührung so lange bis ein Kontextmenü erscheint und wählen Sie die Option „Zu Kurzbefehlen hinzufügen“.
-2. Wischen Sie vom Sprungbrett zwei mal nach rechts um von links die Einstellungen einzublenden. Tippen Sie auf die Gruppe „Kurzbefehle“ und anschließend auf das Plus-Zeichen, um ein Kontextmenü zu öffnen, über das Sie ine App auswählen können. 
+2. Wischen Sie vom Sprungbrett zwei mal nach rechts um von links die Einstellungen einzublenden. Tippen Sie auf die Gruppe „Kurzbefehle“ und anschließend auf das Plus-Zeichen, um ein Kontextmenü zu öffnen, über das Sie eine App auswählen können. 
 
 Ein Tipp: Auch Internetadressen, die Sie als Lesezeichen in der App-Übersicht aufgenommen haben können Sie über diesen Weg zu den Kurzbefehlen hinzufügen. 
 
@@ -207,12 +207,12 @@ In dieser Sammlung führt der Volla Launcher alle Notizen auf, die Sie entweder 
 
 Tippen Sie auf einen Listeneintrag, um die vollständige Notiz zu lesen. In der Detailansicht können Sie eine Notiz bearbeiten, löschen oder an den Anfang der Liste anheften. Angeheftete Notizen können über den gleichen Weg auch wieder von der Position gelöst werden. 
 
-Links mit oúnd ohne Protokoll-Präfix und Listen erkennt der Volla Launcher automatisch un formatiert diese auch automatisch.
+Links mit und ohne Protokoll-Präfix und Listen erkennt der Volla Launcher automatisch un formatiert diese auch automatisch.
 
 	Eine Liste
 	1, Sortierte Listen
 	- Unsortierte Listen
-	* Verschiedene aufzählungszeichen
+	* Verschiedene Aufzählungszeichen
 
 ## Apps
 

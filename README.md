@@ -107,7 +107,7 @@ Volla Launcher recognizes different forms of calendar event description which co
 
 	08/12/2022 12:00 Lunch with Peter
 	12.08. 16:30 - 17:30 Training at the sports club
-	6 - 8 pm Dinner with Paula at Joe's Pizzaria.  
+	6 - 8 pm Dinner with Paula at Joe's Pizzeria.  
 
 If the time is missing, the Volla Launcher will schedule a day event. Error only the second time for the event. If the date is missing, the same day applies. 
 
@@ -147,8 +147,8 @@ You can manage the shortcuts in the settings under the corresponding group of Vo
 
 You can add new shortcuts in two ways:
 
-1. tap and hold on an app in the overview until a context menu appears and select the "Add to shortcuts" option.
-2. Swipe right twice from the springboard to bring up the settings from the left. Tap on the "Shortcuts" group and then on the plus sign to open a context menu from which you can select ine app. 
+1. Tap and hold on an app in the overview until a context menu appears and select the "Add to shortcuts" option.
+2. Swipe right twice from the springboard to bring up the settings from the left. Tap on the "Shortcuts" group and then on the plus sign to open a context menu from which you can select one app. 
 
 A tip: You can also add Internet addresses that you have bookmarked in the app overview to the shortcuts using this method. 
 
@@ -197,8 +197,8 @@ On the other hand, if you tap on the displayed news, you will get to the full ne
 
 By default, Volla Launcher shows the RSS feed of three news channels as an example. You can subscribe to your own RSS or Atom feeds from news portals and blogs in two ways: 
 
-1. tap and hold a link to an RSS or Atom news feed in the browser until a context menu appears. Select the option to share the link with Volla Launcher. 
-Write or copy the link to an RSS or Atom news feed into the text field of the springboard. Springboard will suggest you to subscribe to this feed. 
+1. Tap and hold a link to an RSS or Atom news feed in the browser until a context menu appears. Select the option to share the link with Volla Launcher. 
+2. Write or copy the link to an RSS or Atom news feed into the text field of the springboard. Springboard will suggest you to subscribe to this feed. 
 
 In the Volla Launcher settings you can disable and enable news feeds in the News Channels group, or delete them completely by tapping the cross in the right margin. 
 
@@ -248,6 +248,6 @@ To selection is not final yet.
 
 This document will also be revised. General questions and suggestions are welcome via our contact form or via the Volla Beta Testers group on Telegram:
 
-https://volla.online/de/contact/
+https://volla.online/en/contact/
 
 For invitation to the Telegram group for beta testers, please email Marc Aurel with the address @m_aurel.
