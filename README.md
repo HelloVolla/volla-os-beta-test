@@ -34,6 +34,7 @@ Whenever you open the Volla Launcher, it shows the springboard. The idea is that
 Springboard supports the following use cases:
 
 ### Contact selection
+
 When you start typing with the @ sign, the system recognizes that you want to enter a name and suggests people from the address book, tentatively sorted by name. If you tap on a name in the list, it will be taken over in the text field. Prerequisite for this function is that there are entries in your address book.
 
 By entering further letters you can filter the list of contacts. Here the springboard shows the names that contain the entered letter sequence at any position.
@@ -41,11 +42,17 @@ By entering further letters you can filter the list of contacts. Here the spring
 For example, you can synchronize contacts with the installed app for synchronizing address books and calendars using the CardDAV and CalDAV protocols.
 
 ### Call
+
 Then the system will suggest that you call this person. When you tap on the suggestion for this function, the system will start a call via the Telephony app. You can recognize suggestions for functions by the red background color, unlike suggestions for completing your input.
 
 	@Claudia_Sommer
 
+### Add as speed dial to quick menu
+
+The system also offers the option of adding the contact to the quick menu as a speed dial, with a mobile phone number being the preferred choice.
+
 ### Messages
+
 If you enter more words instead of making a call, the system suggests that you can send a text message or email to the contact you entered. If you tap on the suggestion, the app will open the respective app with a pre-filled message, which you only have to send. 
 
 	@Claudia Sommer Will you come with us to the Italian restaurant during lunch break?
@@ -59,11 +66,13 @@ If you use a line break after the words, the system uses the first line for the 
 Depending on the data stored for a contact, Volla Launcher suggests sending a message as SMS, email via Signal Messenger service.  
 
 ### Web search
+
 If you start the input instead of a word instead of a contact, the system suggests to search the Internet with this word. For this purpose, the system starts the browser with the entered keyword. By default, Volla Launcher uses the [DuckDuckGo](https://duck.com) search engine. In the settings, you can also select [Starpage](https://startpage.com) or [Metager](https://metager.de) in the "Search engines" group.
 
 	Volla
 	
 ### Note
+
 If you enter several words, the system also suggests that you can create a note. You will then find this as an entry in the collections for notes via the red dot.
 
 	Fulla Phone
@@ -76,11 +85,13 @@ You can also use line breaks.
 	2. mult boot
 	
 ### Web address
+
 When you enter a valid web address, the system suggests to open it in the browser.
 
 	volla.online
 	
 ### Phone number
+
 If you enter a phone number in the text field, the system will suggest you to make a call. As with all inputs, a space at the end of a word or a sequence of digits is necessary to trigger the evaluation of the input.
 
 	014323566777
@@ -120,7 +131,17 @@ In case of a line break, Volla Launcher uses the text after the first line break
 
 When you tap on the suggestion to add the event to the calendar, the system opens the Calendar App where you confirm the event to send it off.
 	
-More use cases are planned.
+### Add contact
+
+You can add a new contact to your Android contacts. The Volla Launcher automatically recognizes the name, phone number, and email address.
+
+Paul 03426 7622466
+Paul Sommerfeld +49 3426 7622466
+Paul Sommerfeld +49 3426 7622466 paul.sommerfeld@irgendwas.me
+
+When you tap on the suggestion to create the contact, the system opens the Contacts app, where you can confirm the new contact to save it. You can also edit and add to it beforehand.
+
+Further applications are planned.
 
 ## Shortcuts
 
@@ -161,6 +182,7 @@ You can navigate back to the springboard with a swipe gesture, the home button o
 You can filter each collection using a text field under the heading.
 
 ### Contacts
+
 The system automatically compiles important contacts. In the beta version, the system takes into account all contacts that you have marked as a favorite in the address book or with whom you have recently been in contact via a phone call or an SMS or MMS message.
 
 In the contacts overview, you can find the contact's name as well as its organization or the most recent unread message or missed call. 
@@ -182,6 +204,7 @@ At the bottom of the view, you will find a text field that allows you to reply d
 Signal message integration is in preparation. 
 
 ### Conversations
+
 Here the system displays the most recent conversations with name or phone number and text, which it sorts by time and topic. The beta version takes SMS and MMS messages into account. Other communication channels are planned.
 
 If you briefly tap on a conversation, the system shows the conversation with all exchanged messages.
@@ -189,6 +212,7 @@ If you briefly tap on a conversation, the system shows the conversation with all
 Again, you can reply directly via SMS, MMS and in the future via the Signal Messenger service using the text box at the bottom
 
 ### Messages
+
 Here the system shows recent messages grouped by their source and sorted by time. This has the advantage that important messages from sources that publish messages less frequently do not get lost in the message stream. 
 
 Tapping the news channel icon will take you to all the recent publications of that selected news channel. 
@@ -203,6 +227,7 @@ By default, Volla Launcher shows the RSS feed of three news channels as an examp
 In the Volla Launcher settings you can disable and enable news feeds in the News Channels group, or delete them completely by tapping the cross in the right margin. 
 
 ### Notes
+
 In this collection, Volla Launcher lists all the notes you have created either from the springboard or from the list view of this collection.
 
 Tap on a list entry to read the full note. In the details view, you can edit, delete, or pin a note to the top of the list. Pinned notes can also be unpinned using the same method. 
