@@ -45,6 +45,9 @@ Anschließend schlägt das System vor, dass Sie diese Person anrufen. Wenn Sie a
 
 	@Claudia_Sommer
 
+### Als Kurzwahl zum Schnellmenu hinzufügen
+Als weitere Möglichkeit bietet das System an, den Kontakt für eine Kurzwahl dem Schnellmenü hinzuzufügen, wobei eine Mobilfunknummer bevorzugt verwendet wird. 
+
 ### Mitteilungen
 Wenn Sie anstatt einen Anruf auszulösen weitere Worte eingeben, schlägt das System vorn, dass Sie dem eingegebenen Kontakt eine Kurzmitteilung oder E-Mail senden können. Tippen Sie auf den Vorschlag öffnet die App aktuell noch die jeweilige App mit eine vorausgefüllten Mitteilung, die Sie nur noch absenden müssen. 
 
@@ -119,6 +122,16 @@ An Stelle eines Datums können Sie auch Wochentage oder eine Kurzform wählen:
 Bei einem Zeilenumbruch verwendet der Volla Launcher den Text nach dem ersten Zeilenumbruch als Beschreibung des Kalenderereignisses. 
 
 Wenn Sie auf den Vorschlag tippen, den Termin in den Kalender einzutragen, öffnet das System die Kalender App, in der Sie das Ereignis bestätigen, um es abzuspeichern.
+
+### Kontakt hinzufügen
+
+Sie können einen neuen Kontakt zu Ihren Android-Kontakten hinzufügen. Der Volla Launcher erkennt automatisch Name, Telefonnummer und E-Mail-Adresse. 
+
+	Paul 03426 7622466
+ 	Paul Sommerfeld +49 3426 7622466
+  	Paul Sommerfeld +49 3426 7622466 paul.sommerfeld@irgendwas.me
+
+Wenn Sie auf den Vorschlag tippen, den Kontakt anzulegen, öffnet das System die Kontakte App, in der Sie den neuen Kontakt bestätigen, um ihn abzuspeichern. Sie können ihn zuvor auch bearbieten und ergänzen.
 	
 Weitere Anwendungsfälle sind geplant.
 
